@@ -37,4 +37,7 @@ tions, and suitability for real-world navigation tasks.
 
 [`Simulink`](./Simulink)
 - This folder contains all the simulink models for the controllers we used for this analysis. The .pdf file contain all the information about a single controller. In the output folder there are plots for the simulation of these controllers to make the robot follow the same trajectory. We can also find the overshoot and settling behavior in the project report.
+
+ [`Controller Strategies for Trajectory Tracking – Final Report (PDF)`](./Controller%20Strategies%20for%20Trajectory%20Tracking%20Final%20Report.pdf)
+ - You can read the full project report here.
   
