@@ -1,4 +1,4 @@
-# SLAM-based-Adaptive-Control-System
+# Control Strategies for Trajectory Tracking - Comparative Study
 
 This project presents a comparative study of multiple
 control strategies for trajectory tracking in autonomous
